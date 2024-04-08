@@ -4,3 +4,4 @@ repo = "https://github.com/alcyon-lab/AlcyonRegistry.git"
 description = "Julia package registry that contains all the Alcyon packages."
 
 [packages]
+8e141ef3-93ad-4b93-8838-3aa69831e2fc = { name = "AlcyonValue", path = "A/AlcyonValue" }
