@@ -1,0 +1,6 @@
+name = "AlcyonRegistry"
+uuid = "b5a61a81-c931-459e-bfb1-25ca34650522"
+repo = "https://github.com/alcyon-lab/AlcyonRegistry.git"
+description = "Julia package registry that contains all the Alcyon packages."
+
+[packages]
