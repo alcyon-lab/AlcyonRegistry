@@ -1,0 +1,3 @@
+name = "Polynomials"
+uuid = "40aba029-825d-41bd-a97e-db86442ba04f"
+repo = "https://github.com/alcyon-lab/Polynomials.jl"
