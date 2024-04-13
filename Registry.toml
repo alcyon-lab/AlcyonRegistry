@@ -7,3 +7,4 @@ description = "Julia package registry that contains all the Alcyon packages."
 26e1cdcf-0d11-452a-80c0-82a5afc2740a = { name = "Cones", path = "C/Cones" }
 40aba029-825d-41bd-a97e-db86442ba04f = { name = "Polynomials", path = "P/Polynomials" }
 a33b2169-df44-41c1-bcb8-32c383ca81e5 = { name = "Values", path = "V/Values" }
+eaf9ee71-49fa-48f8-9df8-a09e5cbbfabf = { name = "PolyhedralOmega", path = "P/PolyhedralOmega" }
