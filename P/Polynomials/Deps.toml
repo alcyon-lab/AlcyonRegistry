@@ -1,5 +1,2 @@
-["1-1.0.3"]
-AbstractAlgebra = "c3fe647b-3220-5bb0-a1ea-a7954cac585d"
-
-["1.0.4-1"]
+[0]
 Symbolics = "0c5d862f-8b57-4792-8d23-62f2024744c7"
